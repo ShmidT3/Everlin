@@ -1,2 +1,2 @@
 # Everlin
-Algorithm of proper family polygons Reduction to the canonical form
+The algorithm for converting a cell complex to normal form.
