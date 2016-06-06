@@ -1,2 +1,2 @@
 # Everlin
-Reduction algorithm proper family polygons to the canonical form
+Algorithm of proper family polygons Reduction to the canonical form
